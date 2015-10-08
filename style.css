@@ -1,0 +1,157 @@
+.grey
+{
+	height:400px;
+	width:800px;
+	background-color:lightGrey;
+	margin:0 auto;
+	border-style:solid;
+	border-width:3px;
+	border-color:grey;
+}
+#b1
+{
+	height:100px;
+	width:100px;
+	background-color:RoyalBlue;
+	border-style:solid;
+	border-width:3px;
+	border-color:grey;
+}
+#g1
+{
+	height:100px;
+	width:100px;
+	background-color:YellowGreen;
+	border-style:solid;
+	border-width:3px;
+	border-color:grey;
+}
+#b2
+{
+	height:100px;
+	width:100px;
+	background-color:RoyalBlue;
+	border-style:solid;
+	border-width:3px;
+	border-color:grey;
+	float:left;
+}
+#g2
+{
+	height:100px;
+	width:100px;
+	background-color:YellowGreen;
+	border-style:solid;
+	border-width:3px;
+	border-color:grey;
+	float:left;
+}
+#b3
+{
+	height:100px;
+	width:100px;
+	background-color:RoyalBlue;
+	border-style:solid;
+	border-width:3px;
+	border-color:grey;
+	float:left;
+}
+#g3
+{
+	height:100px;
+	width:100px;
+	background-color:YellowGreen;
+	border-style:solid;
+	border-width:3px;
+	border-color:grey;
+	float:right;
+}
+#b4
+{
+	height:100px;
+	width:100px;
+	background-color:RoyalBlue;
+	border-style:solid;
+	border-width:3px;
+	border-color:grey;
+	float:right;
+}
+#g4
+{
+	height:100px;
+	width:100px;
+	background-color:YellowGreen;
+	border-style:solid;
+	border-width:3px;
+	border-color:grey;
+	float:right;
+}
+#p4
+{
+	height:100px;
+	width:100px;
+	background-color:rebeccaPurple;
+	border-style:solid;
+	border-width:3px;
+	border-color:grey;
+	float:right;
+}
+#g5l
+{
+	height:100px;
+	width:100px;
+	background-color:YellowGreen;
+	border-style:solid;
+	border-width:2px;
+	border-color:grey;
+	float:left;
+}
+#g5r
+{
+	height:100px;
+	width:100px;
+	background-color:YellowGreen;
+	border-style:solid;
+	border-width:2px;
+	border-color:grey;
+	float:right;
+}
+#b5
+{
+	height:200px;
+	width:100%;
+	background-color:RoyalBlue;
+	border-style:solid;
+	border-width:2px;
+	border-color:grey;
+	float:right;
+}
+#wrapper
+{
+	width:500px;
+	height:300px;
+	margin:0 auto;
+	background-color:grey;
+	
+}
+#g6
+{
+	height:75%;
+	width:20%;
+	background-color:YellowGreen;
+	float:left;
+}
+#o6
+{
+	height:25%;
+	width:100%;
+	background-color:Orange;
+	float:left;
+}
+#r6
+{
+	height:75%;
+	width:80%;
+	background-color:FireBrick;
+	float:right;
+}
